@@ -14,5 +14,13 @@
         "files": [
             "Contact.json"
         ]
+    },
+    {
+        "sobject": "Recommendation",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Recommendation.json"
+        ]
     }
 ]
